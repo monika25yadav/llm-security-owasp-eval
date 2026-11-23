@@ -34,7 +34,7 @@ Enterprise chatbots with access to internal HR and customer context face severe 
 * [`test-plan/test_strategy.md`](test-plan/test_strategy.md) — System Under Test (SUT) architecture, OWASP scope, pass/fail thresholds, and severity definitions.
 * [`results/defect_register.md`](results/defect_register.md) — Formal QA defect log detailing `DEF-001` reproduction steps, root cause analysis, and regression verification.
 * [`mitigations/hardened_prompt.md`](mitigations/hardened_prompt.md) — Hardened system prompt (`v2.0`) implementing anti-oracle rules, input boundaries, and strict grounding controls.
-
+* [`results/execution_logs.md`](results/execution_logs.md) — Verbatim test prompts, model responses, and before/after regression evidence.
 ---
 
 ## Key Takeaways for AI Governance & QA
